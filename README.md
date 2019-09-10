@@ -1,7 +1,7 @@
 # TagCloud
 
 Program to generate Tag Cloud from set of words  
-Made for "School of Industrial Programming" course  
+Made for "School of Industrial Programming" course in FP style  
 Git history and foulders look funny because it's import of existing project
 
 There are words editing functions:
